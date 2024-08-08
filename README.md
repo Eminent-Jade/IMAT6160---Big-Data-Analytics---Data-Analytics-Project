@@ -5,7 +5,7 @@
 
 China and other countries have announced their carbon neutrality goals in UN Climate Action Summit, energy reduction is one of the concerned subjects to achieve the goals. And thermal comfort analysis is a crucial factor to optimate the balance between energy consumption and air-conditioning.
 
-This is an exploratory data analysis project to find out occupants' thermal comfort levels in indoor environment in Rm. 02.412 (Data Arena) & Rm. 12_431 (Analysis Room) of Building 11 of University of Technology, Sydney (UTS), by analysing and visualising historical temperature & humidity data sets, and the corresponding computed results of thermal comfort indexes.
+This is an exploratory data analysis project to find out occupants' thermal comfort levels in indoor environment in Rm. 02.412 (Data Arena) & Rm. 12.431 (Analysis Room) of Building 11 of University of Technology, Sydney (UTS), by analysing and visualising historical temperature & humidity data sets, and the corresponding computed results of thermal comfort indexes.
 
 ## Subjects Covered
 
@@ -84,7 +84,7 @@ Lastly, apply a different clothing level of occupants in a part of time slots th
 3. Merge all temperature & humidity dataframes into one
 4. Visualise trends & categories
 5. Adopt package - 'pythermalcomfort', compute 'pmv & ppd' indexes & visualisations
-6. Apply new 'clo' value on Rm. 02-412's time slots that originally gave 'Warm/Hot' sensations
+6. Apply new 'clo' value on Rm. 02.412's time slots that originally gave 'Warm/Hot' sensations
 7. Conclusions
 
 
